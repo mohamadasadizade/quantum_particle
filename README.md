@@ -91,7 +91,7 @@ The quantum numbers \( $n_x, n_y, n_z$ \) correspond to the energy levels in eac
 - **Ground state**: \( $n_x = 1, n_y = 1, n_z = 1$ \)
 - **First excited state**: \( $n_x = 2, n_y = 1, n_z = 1$ \)
 - **Second excited state**: \( $n_x = 2, n_y = 2, n_z = 1$ \)
-- **Third excited state**: \( $n_x = 3, n_y = 1, n_z = 1$ \)
+- **Third excited state**: \( $n_x = 3, n_y = 2, n_z = 1$ \)
 
 
 #### **The code can be executed in Google Colab through the link below.**
